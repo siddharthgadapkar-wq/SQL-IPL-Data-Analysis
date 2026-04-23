@@ -27,7 +27,7 @@ This project analyzes IPL player data using SQL queries to extract meaningful in
 - SQL helps in solving complex real-world filtering problems
 
 ## 📄 Project Report
-[View PDF Report](./Report/SQL_IPL_Data_Analysis.pdf)
+[View PDF Report](./Report/SQL_IPL_Data_Analysis_Sid_Gadapkar.pdf)
 
 ## 💻 SQL Queries
 [View SQL File](./Queries/ipl.sql)

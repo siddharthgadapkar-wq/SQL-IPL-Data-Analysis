@@ -30,4 +30,4 @@ This project analyzes IPL player data using SQL queries to extract meaningful in
 [View PDF Report][(./Report/SQL_IPL_Data_Analysis_Sid_Gadapkar.pdf)](https://github.com/siddharthgadapkar-wq/SQL-IPL-Data-Analysis/blob/main/Report/SQL_IPL_ANALYSIS.pdf)
 
 ## 💻 SQL Queries
-[View SQL File](./Queries/ipl.sql)
+[View SQL File][(./Queries/ipl.sql)](https://github.com/siddharthgadapkar-wq/SQL-IPL-Data-Analysis/blob/main/IPL_ANALYSIS.sql)
